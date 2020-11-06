@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Its also live on the web here https://wild-butterfly-7127.on.fleek.co come join the TACO Party!
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Its also live on the web here https://wild-butterfly-7127.on.fleek.co come join the TACO Party Liquidity Pool and make some TACOS token!
 
 ## Available Scripts
 
